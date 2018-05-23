@@ -1,0 +1,51 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 17 May 2018 16 h 16 min
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.36
+WORDPRESS:	4.9.5
+PHP INFO:	7.1.16 | SAPI: cgi-fcgi
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (256M default) 
+MEMORY STACK: 46MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported 
+FILTERED: [] 
+RESPONSE: Ran from /usr/bin/mysqldump 
+TABLES: total:26 | filtered:0 | create:26 
+SQL CREATED: 20180517_strasbourg_928512ccc786eea21395180517161541_database.sql 
+SQL FILE SIZE: 1.44MB (1507297) 
+SQL FILE TIME: 2018-05-17 16:16:08 
+SQL RUNTIME: 0.16 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /homepages/16/d730082553/htdocs/Strasbourg 
+ARCHIVE FILE: 20180517_strasbourg_928512ccc786eea21395180517161541_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	198.04MB 
+STATS:	Dirs 898 | Files 5,819 
+SQL ADDED: 20180517_strasbourg_928512ccc786eea21395180517161541_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 6717
+    [filename] => /homepages/16/d730082553/htdocs/Strasbourg/wp-snapshots/tmp/20180517_strasbourg_928512ccc786eea21395180517161541_archive.zip
+    [comment] => 
+)
+ 
